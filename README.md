@@ -1,4 +1,4 @@
-# 🎮 College Game Info Explorer
+# 🎮 GameSeek
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
